@@ -3,7 +3,7 @@ Google Sheet
 https://docs.google.com/spreadsheets/d/1i8hHXmhBxsEN6wQPO0oClZ0hBU4I10ayA3_L77iaXJg/edit?usp=drivesdk
 
 Colab
-https://colab.research.google.com/#scrollTo=9rFxTvZkVUh9
+https://colab.research.google.com/drive/16d7jevUYXtz0ccnQ2qd5S9Ypc-bcMxU5#scrollTo=IV5WN5vnWrWf
 
 
 # Numerical-Bisection
