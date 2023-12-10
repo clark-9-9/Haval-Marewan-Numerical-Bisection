@@ -1,6 +1,6 @@
 # Links
 Google Sheet
-https://docs.google.com/spreadsheets/d/1i8hHXmhBxsEN6wQPO0oClZ0hBU4I10ayA3_L77iaXJg/edit?usp=drivesdk
+https://docs.google.com/spreadsheets/d/e/2PACX-1vQjDMDFPuV7vEBNTu6_KW9up-KqCSEObyWySn0wYcXKuKd-pF-OaOY61vOSvvKWsc5S2x6FfzEpo6pH/pubhtml
 
 Colab
 https://colab.research.google.com/drive/16d7jevUYXtz0ccnQ2qd5S9Ypc-bcMxU5#scrollTo=IV5WN5vnWrWf
